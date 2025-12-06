@@ -1217,7 +1217,7 @@ async def MaiiiinE():
     )
     global loop, key, iv, region
     
-    Uid , Pw = '43028740822','TCP_C03TI_BY_SPIDEERIO_GAMING_60C1'
+    Uid , Pw = '4326492418','5D9B5F5EFDD4CCA43C96E5EF75E2D03777B4D0145F78C268B5FBC44B10652B45'
 
     open_id , access_token = await GeNeRaTeAccEss(Uid , Pw)
     if not open_id or not access_token: 
